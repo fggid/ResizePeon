@@ -1,0 +1,4 @@
+settings.json
+dist/
+build/
+*.spec
